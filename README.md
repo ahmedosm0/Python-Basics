@@ -1,4 +1,5 @@
 Python Basics - Learn & Practice 🐍🚀
+
 This repository contains all the essential materials you need to learn Python from scratch. It includes:
 
 ✅ Complete Basics Of Python – Covers fundamental concepts with example implementations.
